@@ -1,0 +1,5 @@
+#Operasi dengan hasil akhir angka 8
+print(5 + 3)    
+print(15 - 7)   
+print(4 * 2)    
+print(24 / 3)   
