@@ -1,1 +1,0 @@
-#buat masalah sendiri
